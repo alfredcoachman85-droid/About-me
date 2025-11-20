@@ -1,6 +1,6 @@
 body{
-    background-color: black;
-    color: white;
+    background-color: blue;
+    color: green;
 }
 .conatiner{
       width: 100%;
@@ -30,6 +30,3 @@ a{
     color: blue;
 }
 
-a:hover {
-    color: yellow;
-}
