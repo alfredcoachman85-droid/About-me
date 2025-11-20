@@ -29,3 +29,7 @@ body{
 a{
     color: blue;
 }
+
+a:hover {
+    color: yellow;
+}
